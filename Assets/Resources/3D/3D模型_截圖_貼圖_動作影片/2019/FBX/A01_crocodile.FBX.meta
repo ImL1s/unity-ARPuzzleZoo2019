@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: b09d4e41af63947d59db72f37d373d48
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basketball
+    100004: Bone001
+    100006: Bone002
+    100008: Bone003
+    100010: Bone004
+    100012: Bone005
+    100014: Bone006
+    100016: Bone007
+    100018: Bone007(mirrored)
+    100020: Bone008
+    100022: Bone008(mirrored)
+    100024: Bone009
+    100026: Bone009(mirrored)
+    100028: Bone010
+    100030: Bone010(mirrored)
+    100032: Bone011
+    100034: Bone012
+    100036: Bone013
+    100038: Bone013(mirrored)
+    100040: Bone014
+    100042: Bone014(mirrored)
+    100044: Bone015
+    100046: Bone015(mirrored)
+    100048: Bone016
+    100050: Bone016(mirrored)
+    100052: Bone017
+    100054: Bone017(mirrored)
+    100056: Bone018
+    100058: Bone019
+    100060: Bone020
+    100062: Bone021
+    100064: Bone022
+    100066: Bone023
+    100068: Bone024
+    100070: Bone025
+    100072: Bone026
+    100074: Bone027
+    100076: Bone028
+    100078: Bone029
+    100080: Bone030
+    100082: connectBone001
+    100084: connectBone002
+    100086: connectBone003
+    100088: connectBone004
+    100090: connectBone005
+    100092: connectBone006
+    100094: Crocodile
+    100096: Dummy011
+    400000: //RootNode
+    400002: Basketball
+    400004: Bone001
+    400006: Bone002
+    400008: Bone003
+    400010: Bone004
+    400012: Bone005
+    400014: Bone006
+    400016: Bone007
+    400018: Bone007(mirrored)
+    400020: Bone008
+    400022: Bone008(mirrored)
+    400024: Bone009
+    400026: Bone009(mirrored)
+    400028: Bone010
+    400030: Bone010(mirrored)
+    400032: Bone011
+    400034: Bone012
+    400036: Bone013
+    400038: Bone013(mirrored)
+    400040: Bone014
+    400042: Bone014(mirrored)
+    400044: Bone015
+    400046: Bone015(mirrored)
+    400048: Bone016
+    400050: Bone016(mirrored)
+    400052: Bone017
+    400054: Bone017(mirrored)
+    400056: Bone018
+    400058: Bone019
+    400060: Bone020
+    400062: Bone021
+    400064: Bone022
+    400066: Bone023
+    400068: Bone024
+    400070: Bone025
+    400072: Bone026
+    400074: Bone027
+    400076: Bone028
+    400078: Bone029
+    400080: Bone030
+    400082: connectBone001
+    400084: connectBone002
+    400086: connectBone003
+    400088: connectBone004
+    400090: connectBone005
+    400092: connectBone006
+    400094: Crocodile
+    400096: Dummy011
+    2100000: crocodile
+    2100002: 02 - Default
+    2300000: Basketball
+    3300000: Basketball
+    4300000: Crocodile
+    4300002: Basketball
+    7400000: crocodile_idle
+    7400002: crocodile_dribble
+    7400004: crocodile_dunk
+    9500000: //RootNode
+    13700000: Crocodile
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crocodile
+    second: {instanceID: 0}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: crocodile_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: crocodile_dribble
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: crocodile_dunk
+      takeName: Take 001
+      firstFrame: 163
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

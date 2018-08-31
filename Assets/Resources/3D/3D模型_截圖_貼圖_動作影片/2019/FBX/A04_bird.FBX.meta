@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 43f88e4720e5b4bc497eac44b0a8ee15
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A_Ball
+    100004: A_Racket
+    100006: Bird
+    100008: Bone001
+    100010: Bone002
+    100012: Bone003
+    100014: Bone004
+    100016: Bone005
+    100018: Bone006
+    100020: Bone008
+    100022: Bone008(mirrored)
+    100024: Bone009
+    100026: Bone009(mirrored)
+    100028: Bone010
+    100030: Bone010(mirrored)
+    100032: Bone011
+    100034: Bone011(mirrored)
+    100036: Bone012
+    100038: Bone012(mirrored)
+    100040: Bone013
+    100042: Bone013(mirrored)
+    100044: Bone014
+    100046: Bone014(mirrored)
+    100048: Bone015
+    100050: Bone015(mirrored)
+    100052: Bone016
+    100054: Bone016(mirrored)
+    100056: Bone017
+    100058: Bone017(mirrored)
+    100060: Bone018
+    100062: Bone018(mirrored)
+    100064: Bone019
+    100066: Bone019(mirrored)
+    100068: Bone020
+    100070: Bone020(mirrored)
+    100072: Bone021
+    100074: Bone021(mirrored)
+    100076: Bone022
+    100078: Bone022(mirrored)
+    100080: Bone023
+    100082: Bone023(mirrored)
+    100084: Bone024
+    100086: Bone024(mirrored)
+    100088: Bone025
+    100090: Bone025(mirrored)
+    100092: Bone026
+    100094: Bone027
+    100096: Bone028
+    100098: Bone029
+    100100: Bone030
+    100102: connectBone002
+    100104: connectBone002(mirrored)
+    100106: connectBone003
+    100108: connectBone004
+    100110: Dummy002
+    100112: Dummy003
+    100114: Dummy004
+    100116: Dummy005
+    100118: Dummy006
+    100120: Dummy007
+    100122: Dummy008
+    100124: Dummy009
+    100126: IK Chain001
+    100128: IK Chain002
+    100130: IK Chain003
+    100132: IK Chain004
+    100134: Point001
+    100136: Point002
+    100138: Point003
+    100140: Point004
+    100142: Rectangle001
+    400000: //RootNode
+    400002: A_Ball
+    400004: A_Racket
+    400006: Bird
+    400008: Bone001
+    400010: Bone002
+    400012: Bone003
+    400014: Bone004
+    400016: Bone005
+    400018: Bone006
+    400020: Bone008
+    400022: Bone008(mirrored)
+    400024: Bone009
+    400026: Bone009(mirrored)
+    400028: Bone010
+    400030: Bone010(mirrored)
+    400032: Bone011
+    400034: Bone011(mirrored)
+    400036: Bone012
+    400038: Bone012(mirrored)
+    400040: Bone013
+    400042: Bone013(mirrored)
+    400044: Bone014
+    400046: Bone014(mirrored)
+    400048: Bone015
+    400050: Bone015(mirrored)
+    400052: Bone016
+    400054: Bone016(mirrored)
+    400056: Bone017
+    400058: Bone017(mirrored)
+    400060: Bone018
+    400062: Bone018(mirrored)
+    400064: Bone019
+    400066: Bone019(mirrored)
+    400068: Bone020
+    400070: Bone020(mirrored)
+    400072: Bone021
+    400074: Bone021(mirrored)
+    400076: Bone022
+    400078: Bone022(mirrored)
+    400080: Bone023
+    400082: Bone023(mirrored)
+    400084: Bone024
+    400086: Bone024(mirrored)
+    400088: Bone025
+    400090: Bone025(mirrored)
+    400092: Bone026
+    400094: Bone027
+    400096: Bone028
+    400098: Bone029
+    400100: Bone030
+    400102: connectBone002
+    400104: connectBone002(mirrored)
+    400106: connectBone003
+    400108: connectBone004
+    400110: Dummy002
+    400112: Dummy003
+    400114: Dummy004
+    400116: Dummy005
+    400118: Dummy006
+    400120: Dummy007
+    400122: Dummy008
+    400124: Dummy009
+    400126: IK Chain001
+    400128: IK Chain002
+    400130: IK Chain003
+    400132: IK Chain004
+    400134: Point001
+    400136: Point002
+    400138: Point003
+    400140: Point004
+    400142: Rectangle001
+    2100000: 07 - Default
+    2100002: 17 - Default
+    2300000: A_Ball
+    2300002: A_Racket
+    3300000: A_Ball
+    3300002: A_Racket
+    4300000: Bird
+    4300002: A_Racket
+    4300004: A_Ball
+    7400000: bird_idle
+    7400002: bird_forehand
+    7400004: bird_serve
+    9500000: //RootNode
+    13700000: Bird
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: bird_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bird_forehand
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bird_serve
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
