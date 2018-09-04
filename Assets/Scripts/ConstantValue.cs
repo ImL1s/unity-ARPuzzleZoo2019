@@ -38,7 +38,12 @@ public class ConstantValue
         Gazelle,
         Lemur,
         Chameleon,
-        Boar
+        Boar,
+        Crocodile,
+        Tortoise,
+        Otter,
+        Bird,
+        Kangaroo
     }
 }
 

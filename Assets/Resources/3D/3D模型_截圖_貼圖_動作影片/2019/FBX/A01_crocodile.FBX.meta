@@ -117,12 +117,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 02 - Default
-    second: {instanceID: 0}
+    second: {fileID: 2100000, guid: 6af7b9c80cec24f3fbdbb65f6b2c2e17, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: crocodile
-    second: {instanceID: 0}
+    second: {fileID: 2100000, guid: 1c04fa00e99b947748fd874ac4f0ebf0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
