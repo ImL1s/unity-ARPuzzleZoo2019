@@ -248,7 +248,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bird_serve
       takeName: Take 001
-      firstFrame: 0
+      firstFrame: 125
       lastFrame: 230
       wrapMode: 0
       orientationOffsetY: 0
